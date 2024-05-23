@@ -75,10 +75,10 @@ canvas {
   border: none;
   border-radius: 6px 0px 0px 6px;
   background-color: #264653;
-  color: #fff;
+  color: #ffffff;
   font-size: 15px;
   cursor: pointer;
-  transition: background-color 0.3s ease-in-out;
+  transition: background-color 0.2s ease-in-out;
 }
 
 .button--submit {
@@ -86,19 +86,19 @@ canvas {
   padding: 0.5em 1em;
   border: none;
   border-radius: 0 6px 6px 0;
-  background-color: #2a9d8f;
-  color: #fff;
+  background-color: #60cabe;
+  color: #ffffff;
   font-size: 15px;
   cursor: pointer;
-  transition: background-color 0.3s ease-in-out;
+  transition: background-color 0.2s ease-in-out;
 }
 
 .button--submit:hover {
-  background-color: #e76f51;
+  background-color: #18635a;
 }
 
 .input:hover {
-  background-color: #2a9d8f;
+  background-color: #157a6f;
   outline: none;
 }
 .jwdiqwdiqwd {
